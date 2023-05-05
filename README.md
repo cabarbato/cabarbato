@@ -1,6 +1,8 @@
 # Colleen A. Barbato
 
-I'm a Front End Engineer that does a lot of Full Stack stuff for a content marketing firm. I specialize in interactive data visualizations and web scraping, and I'm currently studing Typescript, React Native, and how to incorporate DevOps practices into our company's SDLC. I also enjoy drawing in my spare time, and I have previous experience in graphic and industrial design.
+I'm a Software Engineer for a global technology consulting company. I specialize in front-end web and mobile development, particularly using React Native and Typescript. My favorite projects typically include data visualization and interactive storytelling. I also have experience with implementing Jenkins Pipelines, using AWS services, and working with Python, Node.js, and PHP.
+
+When I'm not working, I'm either studying a new language (currently Java), playing outside with my family, or messing around with Minecraft Java Edition. I also enjoy drawing in my spare time, and I have previous experience in graphic and industrial design.
 
 ## Favorite Tools
 * React
@@ -8,7 +10,6 @@ I'm a Front End Engineer that does a lot of Full Stack stuff for a content marke
 * Typescript
 * SASS
 * Python
-* PHP
 
 ## Additional Links
 * [Linkedin](https://www.linkedin.com/in/cabarbato/)
