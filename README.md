@@ -2,7 +2,7 @@
 
 I'm a Software Engineer for a global technology consulting company. I specialize in front-end web and mobile development, particularly using React Native and Typescript. My favorite projects typically include data visualization and interactive storytelling. I also have experience with creating API's for Generative AI applications, implementing Jenkins Pipelines, using AWS services, and working with Python, Node.js, and PHP.
 
-When I'm not working, I'm either studying a new language (currently Java), playing outside with my family, or messing around with Minecraft Java Edition. I also enjoy drawing in my spare time, and I have previous experience in graphic and industrial design.
+When I'm not working, I'm either aquascaping, playing outside with my family, or messing around with Minecraft Java Edition. I also love drawing in my spare time, and I have previous experience in graphic and industrial design.
 
 ## Favorite Tools
 * React
