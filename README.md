@@ -1,6 +1,6 @@
 # Colleen A. Barbato
 
-I'm a full-stack software engineer and technical lead currently working at a global technology consulting company. I build applications that sit at the intersection of **AI systems, workflow automation, and interactive user interfaces**.
+I'm a full-stack software engineer currently working at a global technology consulting company. I build applications that sit at the intersection of **AI systems, workflow automation, and interactive user interfaces**.
 
 Much of my recent work focuses on building **AI-driven tools and internal systems**, including retrieval-augmented generation (RAG) assistants, workflow automation pipelines, and full-stack applications that help teams interact with complex operational data.
 
