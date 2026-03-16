@@ -4,7 +4,6 @@ I'm a full-stack software engineer and technical lead currently working at a glo
 
 Much of my recent work focuses on building **AI-driven tools and internal systems**, including retrieval-augmented generation (RAG) assistants, workflow automation pipelines, and full-stack applications that help teams interact with complex operational data.
 
----
 
 ## Areas I Enjoy Working In
 
@@ -13,7 +12,6 @@ Much of my recent work focuses on building **AI-driven tools and internal system
 • Full-stack system design (React, APIs, cloud services)  
 • Data visualization and interactive storytelling  
 
----
 
 ## Technologies I Work With
 
@@ -37,19 +35,16 @@ Much of my recent work focuses on building **AI-driven tools and internal system
 - CI/CD pipelines (Jenkins)
 - automation workflows
 
----
 
 ## Background
 
 Before transitioning fully into software engineering, I worked in **graphic and industrial design**. That background continues to influence how I approach building intuitive software, data visualizations, and AI interfaces.
 
----
 
 ## Outside of Work
 
 When I'm not coding, I'm usually drawing, reading comics, or obsessing over aquascaping.
 
----
 
 ## Links
 * [Linkedin](https://www.linkedin.com/in/cabarbato/)
