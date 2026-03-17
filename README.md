@@ -27,13 +27,12 @@ Much of my recent work focuses on building **AI-driven tools and internal system
 - Node.js
 - Python
 - PHP
-- API development
 
 **Infrastructure**
-- AWS services
+- AWS
 - GCP
-- CI/CD pipelines (Jenkins)
-- automation workflows
+- Jenkins
+- Github Actions
 
 
 ## Background
