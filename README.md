@@ -48,5 +48,5 @@ When I'm not coding, I'm usually drawing, reading comics, or obsessing over aqua
 
 ## Links
 * [Linkedin](https://www.linkedin.com/in/cabarbato/)
-* [Resume](https://drive.google.com/file/d/1PlWfBEIs8uwrz-K1l36Fz5F8Tec47N8R/view?usp=drivesdk)
+* [Resume](https://drive.google.com/file/d/1-iW87WcpAI3pGtyKthIgT8k3F8buxYxi/view?usp=drivesdk)
 * [Gists](https://gist.github.com/cabarbato)
